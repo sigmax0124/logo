@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+	<title>New Project</title>
+	<defs>
+		<image  width="500" height="500" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0AQMAAADxGE3JAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAHhJREFUeJztyzENAAAMA6DVv+mJ6NfAT64T3/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/dn/gPUpgH1slVP1AAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #131315 } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<path class="s0" d="m109.9 237.6h40l25.4-77.6 25.3 77.6h40l44.9-139.6h-42.3l-9.7 31.1-14.4 44.7-24.7-75.8h-38.3l-10.4 31.1-14.1 43.5-14.2-43.5-9.7-31.1h-42.7z"/>
+	<path class="s0" d="m96.9 397.2h41.1v-72.9l27.8 38.8h26.9l27.6-38.6v72.7h41.1v-143.8h-33.7l-48.5 68.4-48.3-68.4h-34z"/>
+	<path class="s0" d="m434.6 175.3c0-39.6-24-69.6-60.6-75.8v42.1c13.5 5.2 22.2 17.3 22.2 32.9 0 20.2-15 34.1-36.6 34.1-21.8 0-36.6-14.1-36.6-34.5 0-15 8.4-27.5 21.4-31.8v-42c-36.4 7.4-59.8 37-59.8 75.5 0 44.4 30.6 75 75 75 44.4 0 75-30.6 75-75.5z"/>
+	<path class="s0" d="m429.4 402.7v-41.1h-73.4l73.4-54.7v-33.7h-143.9v40.9h73l-73 54.7v33.9z"/>
+</svg>

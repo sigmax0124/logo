@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #aadbcc;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #6aa7ac;
+      }
+
+      .cls-3 {
+        fill: #62a7cd;
+      }
+
+      .cls-4 {
+        fill: #407fc1;
+      }
+
+      .cls-5 {
+        fill: #1e8bbe;
+      }
+
+      .cls-6 {
+        fill: #4194cf;
+      }
+
+      .cls-7 {
+        fill: #77b7b1;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <polygon class="cls-1" points="1499.93 499.93 1000 0 2000 0 1499.93 499.93"/>
+    <polygon class="cls-2" points="1000 0 1499.93 499.93 1000 1000 500.07 499.93 1000 0"/>
+    <polygon class="cls-7" points="1000 0 500.07 499.93 0 0 1000 0"/>
+    <polygon class="cls-3" points="1000 1000 1499.93 499.93 2000 1000 1499.93 1499.93 1000 1000"/>
+    <polygon class="cls-5" points="1000 1000 1499.93 1499.93 1000 2000 499.93 1499.93 1000 1000"/>
+    <polygon class="cls-6" points="499.93 1499.93 1000 2000 0 2000 499.93 1499.93"/>
+    <polygon class="cls-4" points="1000 2000 1499.93 1499.93 2000 2000 1000 2000"/>
+  </g>
+</svg>
